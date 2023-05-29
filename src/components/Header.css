@@ -3,12 +3,12 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #81e2ff;
+  background-color: #d8f0f9;
   padding: 0px 80px;
 }
 
 .header span {
-  color: crimson;
+  color: rgb(0, 8, 255);
 }
 
 .header-logo {
@@ -29,7 +29,7 @@ a {
 .header__option {
   font-weight: 500;
   margin-left: 100px;
-  color: rgb(97, 97, 97);
+  color: rgb(0, 0, 0);
   cursor: pointer;
 }
 
@@ -40,7 +40,7 @@ a {
   height: 120px;
   width: 100%;
   color: white;
-  background-color: rgb(245, 148, 21);
+  background-color: rgb(147, 111, 151);
   transition: 0.5s ease all;
   z-index: 300;
   display: flex;
