@@ -1,6 +1,5 @@
 # Visualize the Sorting Algos
-
-https://algovisualizer-76b0f.web.app
+Live: https://algo-visuals.vercel.app/
 
 # Getting Started with Create React App
 
