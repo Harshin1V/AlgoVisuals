@@ -42,7 +42,7 @@ function Header() {
       </div>
       <div className="header__options">
         <h3 className="header__option" onClick={contactHandler}>
-          <span>G</span>et <span>I</span>n <span>T</span>ouch
+          <span>Contact</span>
         </h3>
       </div>
     </div>
