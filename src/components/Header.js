@@ -29,7 +29,7 @@ function Header() {
             <img src="https://img.icons8.com/ios/50/000000/github--v1.png" />
           </a>
           <a
-            href="https://www.linkedin.com/in/harshini-v-a4b16321a/"
+            href="https://www.linkedin.com/in/harshini-vutukuri-a4b16321a/"
             target="_blank"
           >
             <img src="https://img.icons8.com/ios/50/000000/linkedin.png" />
